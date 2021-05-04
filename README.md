@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [https://vadetaxi.com.br/](Vá de taxi)
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on open source projects
